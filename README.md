@@ -1,1 +1,1 @@
-# rag-baml
+# RAG-baml
